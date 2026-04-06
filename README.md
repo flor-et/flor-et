@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  <br>
 <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black">  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">  <br>
 
-
-
+# Art & Design
+<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
 
 <!--
 **flor-et/flor-et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
