@@ -1,5 +1,6 @@
 # Hello, I'm Jasmine!
 🎓 Computer Science at San Francisco State University
+🖌️ Amateur Artist
 
 # Computer Science Skills
 ## Languages
