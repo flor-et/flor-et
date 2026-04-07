@@ -1,6 +1,6 @@
-# Hello, I'm Jasmine!
+# Hello, My name is Jasmine! 😊
 🎓 Computer Science at San Francisco State University <br>
-🖌️ Amateur Artist
+🖌️ Digital Artist
 
 # Computer Science Skills
 ## Languages
