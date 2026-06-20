@@ -4,7 +4,7 @@
 📌 San Francisco Bay Area <br>
 🎓 Computer Science at San Francisco State University <br>
 🖌️ Self-Taught Digital Artist <br>
-💻 Currently working on student projects, right now a marketplace website <br>
+<!-- 💻 Currently working on student projects, right now a marketplace website <br> -->
 🔭 Looking forward to building a career I'm passionate about and finding new projects to work on
 
 ## Contact
