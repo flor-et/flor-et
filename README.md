@@ -3,8 +3,7 @@
 🌎 Bilingual <img src="https://img.shields.io/badge/English-002868?&logoColor=white"> <img src="https://img.shields.io/badge/Spanish-006847?&logoColor=white"> <br>
 📌 San Francisco Bay Area <br>
 🎓 Computer Science at San Francisco State University <br>
-🖌️ Self-Taught Digital Artist <br>
-<!-- 💻 Currently working on student projects, right now a marketplace website <br> -->
+🖌️ Self-Taught Digital Artist <br> <!-- 💻 Currently working on student projects, right now a marketplace website <br> -->
 🔭 Looking forward to building a career I'm passionate about and finding new projects to work on
 
 ## Contact
